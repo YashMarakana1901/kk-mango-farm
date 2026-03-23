@@ -68,7 +68,7 @@ export default function Shop() {
                 {f}
               </li>
             ))}
-          </ul>
+          </ul> 
 
           {/* Order Buttons */}
           <div className="space-y-3 relative z-10">
