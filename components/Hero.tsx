@@ -21,7 +21,7 @@ export default function Hero() {
       <div className="max-w-2xl animate-fade-up relative z-10">
         {/* Badge */}
         <div className="inline-flex items-center gap-2 bg-[#2D5016] text-white text-xs font-semibold tracking-widest uppercase px-4 py-2 rounded-full mb-8">
-          <span>🌿</span> Surva Gir, Gujarat · Season 2025
+          <span>🌿</span> Surva Gir, Gujarat · Season 2026
         </div>
 
         {/* Heading */}

@@ -57,7 +57,7 @@ export default function Shop() {
           {/* Features */}
           <ul className="space-y-3 mb-10 relative z-10">
             {[
-              '25–28 premium Kesar mangoes',
+              '28–32 premium Kesar mangoes',
               'Naturally tree-ripened in Surva Gir',
               'Hand-selected, carefully packed',
               'Free delivery to your door',

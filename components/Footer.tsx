@@ -69,7 +69,7 @@ export default function Footer() {
 
       {/* Bottom */}
       <div className="border-t border-white/10 pt-6 text-center text-white/30 text-xs">
-        © 2025 KK Mango Farm, Surva Gir. All rights reserved. Made with 🥭 in Gujarat.
+        © 2026 KK Mango Farm, Surva Gir. All rights reserved. Made with 🥭 in Gujarat.
       </div>
     </footer>
   )
