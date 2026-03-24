@@ -45,7 +45,7 @@ export default function Footer() {
           <ul className="space-y-3">
             <li>
               <a
-                href="https://wa.me/919999999999"
+                href="https://wa.me/919909286298"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white/70 text-sm hover:text-[#F5A623] transition-colors flex items-center gap-2"
@@ -54,7 +54,7 @@ export default function Footer() {
               </a>
             </li>
             <li>
-              <a href="tel:+919999999999" className="text-white/70 text-sm hover:text-[#F5A623] transition-colors flex items-center gap-2">
+              <a href="tel:+919909286298" className="text-white/70 text-sm hover:text-[#F5A623] transition-colors flex items-center gap-2">
                 📞 Call Us
               </a>
             </li>

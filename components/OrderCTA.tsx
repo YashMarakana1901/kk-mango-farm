@@ -3,13 +3,13 @@ const methods = [
     icon: '💬',
     title: 'WhatsApp',
     desc: 'Chat with us and place your order instantly',
-    href: 'https://wa.me/919999999999?text=Hi!%20I%20want%20to%20order%20Kesar%20mangoes%20from%20KK%20Mango%20Farm',
+    href: 'https://wa.me/919909286298?text=Hi!%20I%20want%20to%20order%20Kesar%20mangoes%20from%20KK%20Mango%20Farm',
   },
   {
     icon: '📞',
     title: 'Phone Call',
     desc: 'Call us directly — we love talking to customers',
-    href: 'tel:+919999999999',
+    href: 'tel:+919909286298',
   },
   {
     icon: '🏡',

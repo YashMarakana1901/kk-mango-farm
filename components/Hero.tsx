@@ -43,7 +43,7 @@ export default function Hero() {
         {/* CTA Buttons */}
         <div className="flex flex-wrap gap-4 mb-14">
           <a
-            href="https://wa.me/919999999999?text=Hi!%20I%20want%20to%20order%20a%2010kg%20Kesar%20mango%20box%20from%20KK%20Mango%20Farm%20(Surva%20Gir)"
+            href="https://wa.me/919909286298?text=Hi!%20I%20want%20to%20order%20a%2010kg%20Kesar%20mango%20box%20from%20KK%20Mango%20Farm%20(Surva%20Gir)"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-[#F5A623] text-white font-bold text-base px-8 py-4 rounded-full transition-all hover:bg-[#E8891A] hover:-translate-y-1"

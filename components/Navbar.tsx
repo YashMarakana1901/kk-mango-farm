@@ -20,7 +20,7 @@ export default function Navbar() {
         <li><a href="#reviews" className="text-gray-700 font-medium text-sm hover:text-[#E8891A] transition-colors">Reviews</a></li>
         <li>
           <a
-            href="https://wa.me/919999999999?text=Hi!%20I%20want%20to%20order%20Kesar%20mangoes%20from%20KK%20Mango%20Farm"
+            href="https://wa.me/919909286298?text=Hi!%20I%20want%20to%20order%20Kesar%20mangoes%20from%20KK%20Mango%20Farm"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#2D5016] text-white text-sm font-semibold px-6 py-2.5 rounded-full hover:bg-[#4A7C23] transition-colors"
@@ -32,7 +32,7 @@ export default function Navbar() {
 
       {/* Mobile Order Button */}
       <a
-        href="https://wa.me/919999999999?text=Hi!%20I%20want%20to%20order%20Kesar%20mangoes%20from%20KK%20Mango%20Farm"
+        href="https://wa.me/919909286298?text=Hi!%20I%20want%20to%20order%20Kesar%20mangoes%20from%20KK%20Mango%20Farm"
         target="_blank"
         rel="noopener noreferrer"
         className="md:hidden bg-[#F5A623] text-white text-sm font-semibold px-4 py-2 rounded-full"

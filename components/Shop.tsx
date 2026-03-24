@@ -73,7 +73,7 @@ export default function Shop() {
           {/* Order Buttons */}
           <div className="space-y-3 relative z-10">
             <a
-              href="https://wa.me/919999999999?text=Hi!%20I%20want%20to%20order%20a%2010kg%20Kesar%20mango%20box%20from%20KK%20Mango%20Farm"
+              href="https://wa.me/919909286298?text=Hi!%20I%20want%20to%20order%20a%2010kg%20Kesar%20mango%20box%20from%20KK%20Mango%20Farm"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-3 w-full bg-[#2D5016] text-white font-bold py-4 rounded-2xl hover:bg-[#4A7C23] transition-colors text-base"
@@ -81,7 +81,7 @@ export default function Shop() {
               💬 Order on WhatsApp
             </a>
             <a
-              href="tel:+919999999999"
+              href="tel:+919909286298"
               className="flex items-center justify-center gap-3 w-full bg-white/20 text-white font-semibold py-4 rounded-2xl hover:bg-white/30 transition-colors text-sm"
             >
               📞 Call to Order
